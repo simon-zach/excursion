@@ -19,4 +19,12 @@ h3{
     font-family: verdana;
     font-size: 21px;
     color: gray;
+   
+}
+
+#footer p{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: right;
 }
